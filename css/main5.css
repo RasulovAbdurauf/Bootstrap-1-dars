@@ -1,0 +1,106 @@
+.full{
+    width: 550px;
+    margin-top: 170px;
+}
+.box1{
+    height: 80px;
+}
+.box2{
+    height: 80px;
+}
+.box3{
+    height: 80px;
+}
+.box4{
+    height: 80px;
+}
+.box5{
+    height: 40px;
+}
+.box6{
+    height: 30px;
+}
+.box-item01{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item02{
+    background-color: tomato;
+    border: 7px solid white;
+    border-top: 55px solid white;
+    color: white;
+    text-align: center;
+}
+.box-item03{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item04{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item05{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item06{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item07{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item08{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 73px;
+}
+.box-item09{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.box-item10{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.box-item11{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+}
+.box-item12{
+    background-color: tomato;
+    border: 7px solid white;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+}

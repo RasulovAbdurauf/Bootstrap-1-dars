@@ -1,0 +1,11 @@
+.full{
+    width: auto;
+    margin-top: 120px;
+}
+.box-item{
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    border: 10px solid white;
+}

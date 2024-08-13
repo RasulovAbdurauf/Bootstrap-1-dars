@@ -1,0 +1,21 @@
+.full{
+    width: auto;
+    margin-top: 150px;
+}
+.box-item{
+    height: 55px;
+    background-color: rgb(146, 57, 230);
+    border: 4px solid white;
+    color: lightblue;
+    text-align: center;
+    line-height: 40px;
+}
+.box-item1{
+    height: 55px;
+    background-color: rgb(146, 57, 230);
+    border: 4px solid white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+}

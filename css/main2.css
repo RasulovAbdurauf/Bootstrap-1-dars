@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.full{
+    width: auto;
+    height: 600px;
+    margin-top: 200px;
+}
+.box-item{
+    background-color: lightcoral;
+    border: 7px solid black;
+    text-align: center;
+    color: white;
+    height: 70px;
+    line-height: 55px;
+}
